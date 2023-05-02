@@ -36,9 +36,11 @@ font-size: 15px;
  color: hsl(193, 38%, 86%) ;
  padding-bottom:40px;
 }
+
 .line2{
  visibility: hidden;
 }
+
 .line{
  position: relative;
  justify-content: center;
@@ -49,6 +51,7 @@ font-size: 15px;
  display: block;
  margin: auto;
 }
+
 .btn{
  border: none;
  cursor: pointer;

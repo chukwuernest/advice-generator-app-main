@@ -21,6 +21,7 @@ function get_advice() {
       (error) => (document.getElementById("advice").textContent = `Error`)
     );
 }
+
 function get_id() {
   fetch(URL)
     .then((response) => response.json())
