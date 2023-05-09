@@ -1,3 +1,4 @@
+this project is made up of (html css js api)
 this is an advice generator
 it generates advice from the URL using fetch
 the colors used are[- Light Cyan: hsl(193, 38%, 86%)
